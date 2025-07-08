@@ -16,7 +16,10 @@ This Power BI project analyze **online course dataset** to explore how course du
 
 
 ### Dax Measures
-- `Instructor Rank` This is cr
+- **Instructor Rank**
+```dax
+ instractor_rank = if(rankx(all(Instructor[Instructors]), calculate(AVERAGE(Instructor[Rating])))<=3,
+                  calculate(AVERAGE(Instructor[Rating])),blank())```
 
 ### Interactive Dashboard
 - **Stacked Column Chart:** Course tupe and Count of course_id, Average number of viewers by Sub-Category
