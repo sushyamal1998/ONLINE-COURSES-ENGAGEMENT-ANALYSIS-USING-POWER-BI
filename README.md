@@ -1,5 +1,5 @@
-# ONLINE-COURSES-ENGAGEMENT-ANALYSIS-USING-POWER-BI
-Analyzing patteren in online course engagement to understand viewer performance based on course duration, course language etc.
+# ONLINE-COURSES-ANALYSIS-USING-POWER-BI
+Analyzing patteren in online course to understand viewer performance based on course duration, course language etc.
 
 ## Overview
 This Power BI project analyze **online course dataset** to explore how course duration impact on viewer, subtitle language and to understand the performance in different categories, subcategories.
