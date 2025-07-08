@@ -11,8 +11,20 @@ This Power BI project analyze **online course dataset** to explore how course du
 ## Analysis and Dashboard features
 ### Cleaning dataset
 - From dataset first remove duplicate rows, fill missing values, remove extra space etc.
+### Create New table
+- Create a new table, Instructor which contain column Attribute, category, Customer_id, insructor, instructor_rank(create using DAX), ratting
+
+
+### Dax Measures
+- `Instructor Rank` This is cr
+
 ### Interactive Dashboard
-- 
+- **Stacked Column Chart:** Course tupe and Count of course_id, Average number of viewers by Sub-Category
+- **Pie Chart:** Course_type and Language
+- **line Chart:** Viewers and Language Subtitle
+- **Matrix:** Category and category_rank_by_viewer, Instructors and Rank
+  
+
 
 
 
