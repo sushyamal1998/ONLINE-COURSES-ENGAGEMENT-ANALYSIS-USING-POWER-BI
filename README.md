@@ -9,6 +9,10 @@ This Power BI project analyze **online course dataset** to explore how course du
 - **Description:** This dataset contain detail on courses of E-learning platform which include column like category,subcategory, viewers, instractor, duration of courses etc.
 
 ## Analysis and Dashboard features
+### Cleaning dataset
+- From dataset first remove duplicate rows, fill missing values, remove extra space etc.
+### Interactive Dashboard
+- 
 
 
 
