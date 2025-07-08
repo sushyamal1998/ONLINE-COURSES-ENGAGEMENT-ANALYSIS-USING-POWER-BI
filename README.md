@@ -8,7 +8,7 @@ This Power BI project analyze **online course dataset** to explore how course du
 - **File name:** Online_Courses.csv
 - **Description:** This dataset contain detail on courses of E-learning platform which include column like category,subcategory, viewers, instractor, duration of courses etc.
 
-## Analysis and dashboard features
+## Analysis and Dashboard features
 
 
 
